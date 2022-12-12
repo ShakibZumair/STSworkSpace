@@ -1,0 +1,3 @@
+insert into product(productId, name , category , description , manufacturer , unit_price) values(112, 'Lux Soap', 'cosmetics', 'soap for fairness' , 'ITC' , 25);
+insert into product(productId , name , category , description , manufacturer , unit_price) values(113, 'Dettol', 'medicines', 'killing the germs ' , 'IMC' , 40);
+insert into product(productId , name ,category , description , manufacturer , unit_price) values(114, 'Colgate', 'FMCG', 'dental health' , 'Uniliver' , 50);
